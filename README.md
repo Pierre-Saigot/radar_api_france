@@ -225,4 +225,5 @@ Exemple de requête pour récupérer les radars et les informations qui s’ensu
 
 # License
 
-Toutes  ** les données sont libre ** mais appartiennent à “http://www.radars-auto.com/”  et sont ** à utilisées ** dans un ** but strictement personnel ** ou de ** recherche ** et non dans un but commercial.
+Toutes  **les données sont libre** mais appartiennent à “http://www.radars-auto.com/”  
+et sont **à utilisées** dans un **but strictement personnel** ou de **recherche** et non dans un but commercial.
